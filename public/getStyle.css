@@ -1,0 +1,17 @@
+  h1 {
+    color: blueviolet;
+    font-size: 800%;
+    transition: 1s ease-in;
+  }
+  h2 {
+    font-size: 300%;
+    color: #f35626;
+    color: -webkit-linear-gradient(45deg, #f35626, #feab3a);
+    transition: 1s ease-in;
+  }
+  /* button#getCSS {
+    background: #888;
+    border: 1px solid;
+    border-color: #999 #777 #777 #999;
+  } */
+  
